@@ -1,0 +1,30 @@
+#홈페이지에서 API서비스 신청시 받은 Appkey, Appsecret 값 설정
+#실전투자
+my_app: "PS0zASCEGosvWBkZPk1aC88OmRGIdHhBhG66"
+my_sec: "VBKTfcZpHs0rGWIBZPiNQLW2QQ1KsgjmKcCLHFsLboNHFQz7NNAlrW+oTE0weyNtnsco0a/CL8pn9ZyH7qiFR4w/4RbiPd8DaZLf4i9UZi+5Gs0eD2rCOZ696UsnXMt2FSqql10vHqO1ZkdE+/5qXF2KWsmJ3Yp0TdAdnuoO143v6Atp0GE="
+#모의투자
+paper_app: "PSXREocYgT691B8IECD6jK1oXIV9HPjmvk8S"
+paper_sec: "mN8xPCZpD2Rnl1Mbn4B4xRC+jkHTL/Lp8RQBJmeGjway7urWqkCM4If7Vt66R6RMwTGmdEl6ARSR/rGgFXUmbbY4qdLPJPYZ99odZslR15mzVx+Xjfypq+vdh9mSqzDr+F/b+gNQIMrItQlNO9pnOknMzUfaWrAiURCcKi6EBPvIFMKXzyo="
+
+#모의계좌번호 앞 8자리
+my_acct: "50112831"
+#모의계좌번호 뒤 2자리
+my_prod: "01"
+
+#실전투자
+prod: "https://openapi.koreainvestment.com:9443"
+my_url: "https://openapi.koreainvestment.com:9443"
+
+#모의투자
+vps: "https://openapivts.koreainvestment.com:29443"
+
+#디스코드 웹훅 URL
+DISCORD_WEBHOOK_URL: ""
+
+my_agent : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+
+
+my_acct_stock: "64390185" # 실전투자 주식투자, 위탁계좌, 투자계좌
+my_acct_future: "64390185" # 실전투자 선물옵션(파생)
+my_paper_stock: "50112831"  #모의투자 주식투자, 위탁계좌, 투자계좌
+my_paper_future: "60027717" # 모의투자 선물옵션(파생)
