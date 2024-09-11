@@ -6,7 +6,6 @@ import time
 # 토큰 발급
 ka.auth()
 
-# 사용자 입력 받기
 start_date = input("조회 시작일을 입력하세요 (YYYYMMDD 형식): ")
 end_date = input("조회 종료일을 입력하세요 (YYYYMMDD 형식): ")
 
